@@ -36,6 +36,20 @@
 
 2.各专业分类培养总目标及年度目标
 
+![](.\images\classified-training-1.png)
+
+![](.\images\classified-training-3.png)
+
+![](.\images\classified-training-3.png)
+
+![](.\images\classified-training-4.png)
+
+![](.\images\classified-training-5.png)
+
+![](.\images\classified-training-6.png)
+
+![](.\images\classified-training-7.png)
+
 ## 五、主要措施
 
 (一)加强分类培养分层教学理论研究
