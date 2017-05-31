@@ -3,12 +3,16 @@
 # 前言
 ---------
 
-本书是[阮一峰](http://www.ruanyifeng.com/)写的全栈工程师培训材料，帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
+## 建站目标
 
-原版内容可以在其[github库](https://github.com/ruanyf/jstraining)上找到。为便于阅读与实用，我将其内容整理成在线电子书的形式，基础框架也用的是阮老师的教材[《ECMAScript 6 入门》](http://es6.ruanyifeng.com/) 中所用的模板。
+为方便广大师生师生查阅教务相关文件资料，本站收录了《学生手册》、《教务管理文件汇编》，并根据教务管理工作中遇到的常见问题制作了《教务工作百解》。希望能够给师生的工作学习予以指导帮助。
 
-GitHub:[https://github.com/fangrenfu/jstrain](https://github.com/fangrenfu/jstrain)
+站点由教务处负责内容维护，方仁富老师提供技术支持，欢迎大家提供反馈意见。
 
-点[这里](download/demos.rar)下载所有demos
+## 联系方式
 
-点[这里](download/ppt.rar)下载PPT
+邮箱： fangrenfu@nbcc.cn
+
+QQ：9885704
+
+短号：624074

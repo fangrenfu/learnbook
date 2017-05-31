@@ -202,7 +202,7 @@ input.searchButton {
 }
 
 #content h2:before {
-	content: counter(section) ". ";
+	/*content: counter(section) ". ";不要前面的序号*/
 }
 
 #content h3 {
@@ -276,6 +276,7 @@ input.searchButton {
 #content .content-toc{
     background: #bdc3c7;
     border-radius: 5px;
+    list-style: none; /*顶部目录不要数字序号*/
 }
 
 #content table{display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}

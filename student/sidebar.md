@@ -1,0 +1,17 @@
+# [学生手册](http://nbcc.fangrenfu.me/student.html)
+
+整理：方仁富
+
+## 目录
+1. [前言](#student/README)
+1. [中华人民共和国高等教育法](#docs/high-education-law)
+1. [普通高等学校学生管理规定](#docs/high-education-student)
+1. [高等学校学生行为准则](#docs/high-school-behavior)
+1. [学生伤害事故处理办法](#docs/student-hurt)
+1. [高校学生获得学籍及毕业证书政策告知](#docs/study-and-graduate)
+1. [宁波城市职业技术学院学生管理规定](#docs/student-manage)
+1. [宁波城市职业技术学院学生选课细则](#docs/student-select-course)
+1. [宁波城市职业技术学院关于辅修专业和双专业的实施办法（修订）](#docs/minor-and-double-major)
+1. [宁波城市职业技术学院分类培养工作方案](#docs/classified-training)
+1. [普通高等学校学生管理规定](#docs/high-education-student)
+1. [普通高等学校学生管理规定](#docs/high-education-student)
