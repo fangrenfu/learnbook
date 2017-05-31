@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/app.css">
+  <title>Javascript全栈工程师教程</title>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="js/jquery-ui.min.js"></script>
+  <script src="js/marked.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/ditto.js"></script>
+  <script src="js/prism.js"></script>
+</head>
+<body>
+  <!-- essential -->
+  <div id="sidebar"></div>
+  <div id="content"></div>
+  <!-- optional -->
+  <div id="back_to_top">回顶部</div>
+  <div id="edit">编辑</div>
+  <div id="loading">载入中 ...</div>
+  <div id="error">哇噢~ !文件没找到!</div>
+  <div id="flip"><div id="pageup">上一章</div><div id="pagedown">下一章</div></div>
+  <div class="progress-indicator-2"></div>
+
+  <script>
+      $(function($) {
+          ditto.document_title= "Javascript全栈工程师教程";
+          // essential settings
+          ditto.index = "README.md";
+          ditto.sidebar_file = "sidebar.md";
+          ditto.github_repo = "jstrain";        // <------- EDIT ME!!
+          ditto.highlight_code = true;       // <------- EDIT ME!!
+          ditto.base_url = "https://github.com/fangrenfu/jstrain/edit/gh-pages";
+          // run
+          ditto.run();
+      });
+  </script>
+  <noscript>
+    <p></p>
+  </noscript>
+</body>
+</html>
