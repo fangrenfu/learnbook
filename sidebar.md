@@ -1,4 +1,4 @@
-# [宁波城市学院教务文件](http://nbcc.fangrenfu.me)
+# [教务百科](http://nbcc.fangrenfu.me)
 
 整理：方仁富
 
